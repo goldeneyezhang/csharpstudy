@@ -1,0 +1,7 @@
+E:\asp.net core\WebApiStudy\ConsoleAppThread\bin\Debug\ConsoleAppThread.exe.config
+E:\asp.net core\WebApiStudy\ConsoleAppThread\bin\Debug\ConsoleAppThread.exe
+E:\asp.net core\WebApiStudy\ConsoleAppThread\bin\Debug\ConsoleAppThread.pdb
+E:\asp.net core\WebApiStudy\ConsoleAppThread\obj\Debug\ConsoleAppThread.csprojResolveAssemblyReference.cache
+E:\asp.net core\WebApiStudy\ConsoleAppThread\obj\Debug\ConsoleAppThread.csproj.CoreCompileInputs.cache
+E:\asp.net core\WebApiStudy\ConsoleAppThread\obj\Debug\ConsoleAppThread.exe
+E:\asp.net core\WebApiStudy\ConsoleAppThread\obj\Debug\ConsoleAppThread.pdb

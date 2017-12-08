@@ -1,0 +1,9 @@
+E:\asp.net core\WebApiStudy\ConsoleAppSerialize2\obj\Debug\ConsoleAppSerialize2.csprojResolveAssemblyReference.cache
+E:\asp.net core\WebApiStudy\ConsoleAppSerialize2\obj\Debug\ConsoleAppSerialize2.csproj.CoreCompileInputs.cache
+E:\asp.net core\WebApiStudy\ConsoleAppSerialize2\bin\Debug\ConsoleAppSerialize2.exe.config
+E:\asp.net core\WebApiStudy\ConsoleAppSerialize2\bin\Debug\ConsoleAppSerialize2.exe
+E:\asp.net core\WebApiStudy\ConsoleAppSerialize2\bin\Debug\ConsoleAppSerialize2.pdb
+E:\asp.net core\WebApiStudy\ConsoleAppSerialize2\bin\Debug\Newtonsoft.Json.dll
+E:\asp.net core\WebApiStudy\ConsoleAppSerialize2\bin\Debug\Newtonsoft.Json.xml
+E:\asp.net core\WebApiStudy\ConsoleAppSerialize2\obj\Debug\ConsoleAppSerialize2.exe
+E:\asp.net core\WebApiStudy\ConsoleAppSerialize2\obj\Debug\ConsoleAppSerialize2.pdb

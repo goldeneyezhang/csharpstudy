@@ -1,0 +1,6 @@
+E:\asp.net core\WebApiStudy\ConsoleAppExtension\bin\Debug\ConsoleAppExtension.exe.config
+E:\asp.net core\WebApiStudy\ConsoleAppExtension\bin\Debug\ConsoleAppExtension.exe
+E:\asp.net core\WebApiStudy\ConsoleAppExtension\bin\Debug\ConsoleAppExtension.pdb
+E:\asp.net core\WebApiStudy\ConsoleAppExtension\obj\Debug\ConsoleAppExtension.csproj.CoreCompileInputs.cache
+E:\asp.net core\WebApiStudy\ConsoleAppExtension\obj\Debug\ConsoleAppExtension.exe
+E:\asp.net core\WebApiStudy\ConsoleAppExtension\obj\Debug\ConsoleAppExtension.pdb

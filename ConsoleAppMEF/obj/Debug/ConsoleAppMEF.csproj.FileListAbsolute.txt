@@ -1,0 +1,7 @@
+E:\asp.net core\WebApiStudy\ConsoleAppMEF\bin\Debug\ConsoleAppMEF.exe.config
+E:\asp.net core\WebApiStudy\ConsoleAppMEF\bin\Debug\ConsoleAppMEF.exe
+E:\asp.net core\WebApiStudy\ConsoleAppMEF\bin\Debug\ConsoleAppMEF.pdb
+E:\asp.net core\WebApiStudy\ConsoleAppMEF\obj\Debug\ConsoleAppMEF.csprojResolveAssemblyReference.cache
+E:\asp.net core\WebApiStudy\ConsoleAppMEF\obj\Debug\ConsoleAppMEF.csproj.CoreCompileInputs.cache
+E:\asp.net core\WebApiStudy\ConsoleAppMEF\obj\Debug\ConsoleAppMEF.exe
+E:\asp.net core\WebApiStudy\ConsoleAppMEF\obj\Debug\ConsoleAppMEF.pdb

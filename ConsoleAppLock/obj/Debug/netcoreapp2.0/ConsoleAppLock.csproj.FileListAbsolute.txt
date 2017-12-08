@@ -1,0 +1,11 @@
+E:\asp.net core\WebApiStudy\ConsoleAppLock\bin\Debug\netcoreapp2.0\ConsoleAppLock.deps.json
+E:\asp.net core\WebApiStudy\ConsoleAppLock\bin\Debug\netcoreapp2.0\ConsoleAppLock.runtimeconfig.json
+E:\asp.net core\WebApiStudy\ConsoleAppLock\bin\Debug\netcoreapp2.0\ConsoleAppLock.runtimeconfig.dev.json
+E:\asp.net core\WebApiStudy\ConsoleAppLock\bin\Debug\netcoreapp2.0\ConsoleAppLock.dll
+E:\asp.net core\WebApiStudy\ConsoleAppLock\bin\Debug\netcoreapp2.0\ConsoleAppLock.pdb
+E:\asp.net core\WebApiStudy\ConsoleAppLock\obj\Debug\netcoreapp2.0\ConsoleAppLock.csprojResolveAssemblyReference.cache
+E:\asp.net core\WebApiStudy\ConsoleAppLock\obj\Debug\netcoreapp2.0\ConsoleAppLock.csproj.CoreCompileInputs.cache
+E:\asp.net core\WebApiStudy\ConsoleAppLock\obj\Debug\netcoreapp2.0\ConsoleAppLock.AssemblyInfoInputs.cache
+E:\asp.net core\WebApiStudy\ConsoleAppLock\obj\Debug\netcoreapp2.0\ConsoleAppLock.AssemblyInfo.cs
+E:\asp.net core\WebApiStudy\ConsoleAppLock\obj\Debug\netcoreapp2.0\ConsoleAppLock.dll
+E:\asp.net core\WebApiStudy\ConsoleAppLock\obj\Debug\netcoreapp2.0\ConsoleAppLock.pdb
