@@ -1,0 +1,11 @@
+E:\asp.net core\WebApiStudy\ConsoleAppWindsor\bin\Debug\ConsoleAppWindsor.exe.config
+E:\asp.net core\WebApiStudy\ConsoleAppWindsor\bin\Debug\ConsoleAppWindsor.exe
+E:\asp.net core\WebApiStudy\ConsoleAppWindsor\bin\Debug\ConsoleAppWindsor.pdb
+E:\asp.net core\WebApiStudy\ConsoleAppWindsor\bin\Debug\Castle.Core.dll
+E:\asp.net core\WebApiStudy\ConsoleAppWindsor\bin\Debug\Castle.Windsor.dll
+E:\asp.net core\WebApiStudy\ConsoleAppWindsor\bin\Debug\Castle.Core.xml
+E:\asp.net core\WebApiStudy\ConsoleAppWindsor\bin\Debug\Castle.Windsor.xml
+E:\asp.net core\WebApiStudy\ConsoleAppWindsor\obj\Debug\ConsoleAppWindsor.csprojResolveAssemblyReference.cache
+E:\asp.net core\WebApiStudy\ConsoleAppWindsor\obj\Debug\ConsoleAppWindsor.csproj.CoreCompileInputs.cache
+E:\asp.net core\WebApiStudy\ConsoleAppWindsor\obj\Debug\ConsoleAppWindsor.exe
+E:\asp.net core\WebApiStudy\ConsoleAppWindsor\obj\Debug\ConsoleAppWindsor.pdb
